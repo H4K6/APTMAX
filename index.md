@@ -6,9 +6,9 @@ layout: home
 
 **<font size=5>Name：H4K6</font>**
 
-**<font size=5>`对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。`</font>**
+**<pre><font size=5>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</font></pre>**
 
-<video src="/public/video/H4K6ATT.mp4" width="600px" height="340px" controls="controls"></video>
+<video src="/public/video/H4K6ATT.mp4" width="700px" height="340px" controls="controls"></video>
 ---
 从初中那会接触到“黑客”，
 
