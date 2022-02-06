@@ -43,7 +43,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "APT - 0x44LL",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
