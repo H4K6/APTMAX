@@ -1,13 +1,13 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            H4K6
+longtitle:        0x44LL Team
+author:           APT-0x44LL
+email:            #
 description: >
-  Build Jekyll site with the GitBook style.
+  用技术拯救世界.
 
-version:          1.0
-gitbook_version:  3.2.3
+version:          1.3
+gitbook_version:  7.2.5
 
 url:              'https://H4K6.github.io'
 baseurl:          '/'
