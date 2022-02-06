@@ -4,7 +4,7 @@ layout: home
 
  # **介绍**
 
-> **<font size=5>Name：H4K6</font>**
+**<font size=5>Name：H4K6</font>**
 
 **<font size=5>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</font>**
 
