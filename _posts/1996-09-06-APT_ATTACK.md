@@ -24,10 +24,12 @@ layout: post
 ## 小打小闹直接无视！ 
 
 我们发动了一次较小的**`CC攻击`**来进行测试
+
+在测试过程中，我们可以看到`CPU`**一直保持在**`100%`的状态下<br>
 ![/public/DocsPics/AttackDDCC/Untitled%205.png](/public/DocsPics/AttackDDCC/Untitled%205.png)
 ![/public/DocsPics/AttackDDCC/Untitled%201.png](/public/DocsPics/AttackDDCC/Untitled%201.png)
 
-在测试过程中，我们可以看到`CPU`**一直保持在**`100%`的状态下
+
 
 
 ## **攻击流量清洗图**
