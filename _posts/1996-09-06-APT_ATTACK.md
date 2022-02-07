@@ -10,7 +10,8 @@ layout: post
 **ATTACK**
 ---
 
-![smiley](/public/picture/anonimuns.gif)
+
+![smiley](/public/picture/giphy.webp)
 
 **<font color=Blue size=33 face="黑体">0x44LL TEAM</font>**
 
