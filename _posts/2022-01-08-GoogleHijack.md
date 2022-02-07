@@ -46,5 +46,5 @@ https://policies.google.com/privacy
 https://play.google.com/intl/ALL_ru/about/card-terms/ 
 https://play.google.com/intl/ru_ru/about/redeem-terms/
 ```
-<font color=navy face="黑体">其他自己去测</font>
+<font color=Red face="黑体">其他自己去测</font>
 
