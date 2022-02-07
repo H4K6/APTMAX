@@ -11,7 +11,7 @@ layout: home
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div>
 
 
-<video src="/public/video/H4K6ATT.mp4" width="750px" height="480px" controls="controls"></video>
+<video src="/public/video/H4K6ATT.mp4" width="750px" height="500px" controls="controls"></video>
 ---
 &emsp;&emsp;从初中那会开始爱玩游戏，老被敌方打哭，有次在“百度一下”查找游戏教程发现到了“外挂”，其中慢慢接触到了“吾爱破解论坛”、“挂海论坛”、“魔鬼作坊”等多个“知名游戏外挂论坛”，看到挺多逆向破解软件教程，当时的教程很多都是免费的，心中慢慢萌芽，便学习了起来，从找CE修改内存数值到OD找动态基址，修改和破解收费软件，一步步踏上了不归路；
 
