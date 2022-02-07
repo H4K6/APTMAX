@@ -24,7 +24,7 @@ https://analytics.twitter.com/daa/0/daa_optout_actions?action_id=4&&rd=http://12
 
 ``` 
 <!--
-
+<!DOCTYPE html>
 <html lang="en" class="dog">
   <head>
     <script language="javascript" type="text/javascript">   
