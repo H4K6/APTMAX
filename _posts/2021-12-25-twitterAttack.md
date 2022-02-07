@@ -20,7 +20,10 @@ https://analytics.twitter.com/daa/0/daa_optout_actions?action_id=4&&rd=http://12
 2.将`http://127.0.0.1/`绑定以下页面代码及名称如下上传到服务器，有自己的页面也可自行修改；<br>
 > index.html
 
-```
+
+
+``` 
+<!--
 <!DOCTYPE html>
 <html lang="en" class="dog">
   <head>
@@ -71,6 +74,8 @@ https://analytics.twitter.com/daa/0/daa_optout_actions?action_id=4&&rd=http://12
   </body>
   <script src="https://abs.twimg.com/errors/404-8651f633fd193e0b546010676a4fac06.js"></script>
 </html>
+
+-->
 ```
 
 [推特重定向攻击PDF教程][1]
