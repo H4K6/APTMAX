@@ -8,7 +8,7 @@ layout: post
 
 
 ## 最新推特重定向攻击演示
-<video src="/public/video/twitterAttack.mp4" width="750px" height="500px" controls="controls"></video>
+<video src="/public/video/twitterAttack.mp4" width="780px" height="500px" controls="controls"></video>
 
 
 > **攻击接口：**
@@ -19,6 +19,7 @@ https://analytics.twitter.com/daa/0/daa_optout_actions?action_id=4&&rd=http://12
 1.服务器建立站点访问302重定向到`http://127.0.0.1/`，也可以在cdn上设置跳转地址；<br>
 2.将`http://127.0.0.1/`绑定以下页面代码及名称如下上传到服务器，有自己的页面也可自行修改；<br>
 > index.html
+
 ```
 <!DOCTYPE html>
 <html lang="en" class="dog">
