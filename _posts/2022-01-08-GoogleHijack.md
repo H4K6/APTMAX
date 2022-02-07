@@ -1,5 +1,5 @@
 ---
-title: How to Get Started
+title: Google劫持
 author: APT - 0x44LL
 date: 2022-01-08
 category: Jekyll
@@ -8,7 +8,7 @@ layout: post
 
 # Google劫持
 ## 伪造钓鱼页面，这里我用html随便写了个页面进行劫持，演示视频如下：
-<video src="/public/video/GoogleHijack.mp4" width="800px" height="480px" controls="controls"></video>
+<video src="/public/video/GoogleHijack.mp4" width="680px" height="480px" controls="controls"></video>
 **<font color=Red face="黑体">该方法同样对国内比较大型的互联网企业等网站进行劫持，经测试对通信官方网站某通、某信、某动都能劫持。</font>**
 
 
