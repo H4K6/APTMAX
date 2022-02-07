@@ -11,7 +11,7 @@ layout: post
 ---
 
 
-![smiley](/public/picture/giphy.webp)
+![smiley](/public/picture/issua-austin.gif)
 
-**<font color=Blue size=33 face="黑体">0x44LL TEAM</font>**
+**<font color=Blue size=33 face="黑体">0x44LL ATTACK</font>**
 
