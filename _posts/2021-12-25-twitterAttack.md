@@ -76,4 +76,4 @@ https://analytics.twitter.com/daa/0/daa_optout_actions?action_id=4&&rd=http://12
 
 
 
-[1]:http://0x44LL.github.io/File/
+[1]:https://github.com/H4K6/H4K6.github.io/blob/729da1d3413a1ceb11de5a2fe96d8649747922b4/File/2021-12-25-twitterAttack.pdf
