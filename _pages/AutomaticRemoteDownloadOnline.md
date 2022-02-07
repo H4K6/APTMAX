@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-## 最新自动远程下载上线演示视频
+## 最新自动远程下载免杀上线演示视频
 <video src="/public/video/AutomaticRemoteDownloadOnline.mp4" width="780px" height="500px" controls="controls"></video>
