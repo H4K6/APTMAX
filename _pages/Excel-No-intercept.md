@@ -6,6 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-## 最新EXCEL无拦截上线演示视频
+## 最新EXCEL免杀上线演示视频
 <video src="/public/video/NoIntercept.mp4" width="780px" height="500px" controls="controls"></video>
 
