@@ -7,7 +7,7 @@ layout: post
 ---
 
 ## EXCEL远程执行演示
-<video src="/public/video/RemoteExecution.mp4" width="680px" height="480px" controls="controls"></video>
+<video src="/public/video/RemoteExecution.mp4" width="750px" height="480px" controls="controls"></video>
 
 ## 准备工作：<br>
 **1.创建以下两个文件<br>**
