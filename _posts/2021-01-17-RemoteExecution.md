@@ -6,7 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-# EXCEL远程执行
 ## EXCEL远程执行演示
 <video src="/public/video/RemoteExecution.mp4" width="680px" height="480px" controls="controls"></video>
 
