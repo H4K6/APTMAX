@@ -106,65 +106,27 @@ layout: home
 恶意组队：
 
 <iframe 
-    width=780
-    height=450
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=2
-    allowfullscreen>
-</iframe>
-
-
-<iframe 
-    width=780
-    height=440
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=2
-    allowfullscreen>
-</iframe>
-
-
-<iframe 
-    width=780
-    height=430
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=2
-    allowfullscreen>
-</iframe>
-
-------------------------
-
-<iframe 
     width=770
-    height=445
+    height=435
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=3 
+    frameborder=0
     allowfullscreen>
 </iframe>
 
 
 <iframe 
     width=770
-    height=440
+    height=436
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=3 
+    frameborder=0
     allowfullscreen>
 </iframe>
 
 
 <iframe 
     width=770
-    height=430
+    height=437
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=3 
-    allowfullscreen>
-</iframe>
-
-
-
-<iframe 
-    width=770
-    height=420
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=3 
+    frameborder=0
     allowfullscreen>
 </iframe>
