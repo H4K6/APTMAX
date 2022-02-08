@@ -10,6 +10,8 @@ layout: home
 
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div>
 
+<video src="https://zfile.vip/directlink/1/%E8%A7%86%E9%A2%91/Lemon%20(Full%20Covered%20by.mp4
+" width="750px" height="500px" controls="controls"></video>
 
 <video src="/public/video/H4K6ATT.mp4" width="750px" height="500px" controls="controls"></video>
 ---
