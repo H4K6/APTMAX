@@ -7,6 +7,12 @@
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div>
 
 
+![smiley](/public/picture/anonimuns.gif)
+
+
+```
+热爱前沿技术探索，黑灰产行业打击研究。 
+```
 ---
 
 陌生人，你好...
@@ -88,9 +94,3 @@
 而这一份资料，我愿意与你分享，好好学习，读书人！
 
 
-![smiley](/public/picture/anonimuns.gif)
-
-
-```
-热爱前沿技术探索，黑灰产行业打击研究。 
-```
