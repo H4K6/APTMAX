@@ -124,8 +124,8 @@ layout: home
 
 
 <iframe 
-    width=800
-    height=440
+    width=790
+    height=450
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=1 
     allowfullscreen>
@@ -133,8 +133,8 @@ layout: home
 
 
 <iframe 
-    width=800
-    height=430
+    width=780
+    height=450
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=2
     allowfullscreen>
@@ -142,8 +142,25 @@ layout: home
 
 
 <iframe 
-    width=800
-    height=420
+    width=770
+    height=450
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
+    frameborder=3 
+    allowfullscreen>
+</iframe>
+
+
+<iframe 
+    width=760
+    height=450
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
+    frameborder=3 
+    allowfullscreen>
+</iframe>
+
+<iframe 
+    width=750
+    height=450
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=3 
     allowfullscreen>
