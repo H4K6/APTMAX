@@ -104,10 +104,23 @@ layout: home
 
 
 恶意组队：
+
 <iframe 
     width=750
     height=500
-    src="https://player.youku.com/embed/XNTgzODIyMzQ4MA==" 
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=0 
+    allowfullscreen>
+</iframe>
+
+
+<iframe height=498 width=510 src='https://player.youku.com/embed/XNTg0MDQ0NDYwOA==' frameborder=0 'allowfullscreen'></iframe>
+
+
+<iframe 
+    width=750
+    height=500
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
+    frameborder=1 
     allowfullscreen>
 </iframe>
