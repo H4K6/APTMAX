@@ -1,8 +1,4 @@
----
-layout: home
----
-
- # **介绍**
+# **介绍**
 
 **<font color=DeepPink size=33 face="黑体">Name：H4K6</font>**
 
