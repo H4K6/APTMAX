@@ -111,6 +111,3 @@ layout: home
     frameborder=0 
     allowfullscreen>
 </iframe>
-
-#3333333
-<iframe width=750 height=500 class="bilibili" src="//player.bilibili.com/player.html?aid=14875394&cid=24237231&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
