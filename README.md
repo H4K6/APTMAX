@@ -6,6 +6,7 @@
 
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div>
 
+******
 
 ![smiley](/public/picture/anonimuns.gif)
 
