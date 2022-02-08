@@ -106,8 +106,8 @@ layout: home
 恶意组队：
 
 <iframe 
-    width=750
-    height=500
+    width=800
+    height=450
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=0 
     allowfullscreen>
@@ -117,15 +117,15 @@ layout: home
 <iframe 
     width="800" 
     height="450" 
-    src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__"
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA=="
     frameborder="0" 
     allowfullscreen>
 </iframe>
 
 
 <iframe 
-    width=750
-    height=500
+    width=800
+    height=440
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=1 
     allowfullscreen>
@@ -133,8 +133,8 @@ layout: home
 
 
 <iframe 
-    width=750
-    height=500
+    width=800
+    height=430
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=2
     allowfullscreen>
@@ -142,8 +142,8 @@ layout: home
 
 
 <iframe 
-    width=750
-    height=500
+    width=800
+    height=420
     src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
     frameborder=3 
     allowfullscreen>
