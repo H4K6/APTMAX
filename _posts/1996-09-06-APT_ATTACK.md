@@ -1,5 +1,5 @@
 ---
-title: ATTACK - 定制流量清洗方案
+title: DDOS/CC定制流量清洗方案
 author: APT - 0x44LL
 date: 1996-09-06
 category: Jekyll
