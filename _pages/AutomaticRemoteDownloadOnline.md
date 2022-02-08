@@ -7,4 +7,11 @@ layout: post
 ---
 
 ## 最新自动远程下载免杀上线演示视频
-<video src="/public/video/AutomaticRemoteDownloadOnline.mp4" width="780px" height="500px" controls="controls"></video>
+
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDAwNzA0OA==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>

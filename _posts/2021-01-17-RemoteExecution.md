@@ -7,7 +7,14 @@ layout: post
 ---
 
 ## EXCEL远程执行演示
-<video src="/public/video/RemoteExecution.mp4" width="750px" height="500px" controls="controls"></video>
+
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDAwMzIxMg==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>
 
 ## 准备工作：<br>
 **1.创建以下两个文件<br>**

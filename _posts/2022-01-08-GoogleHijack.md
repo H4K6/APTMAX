@@ -7,7 +7,15 @@ layout: post
 ---
 
 ## 伪造钓鱼页面，这里我用html随便写了个页面进行劫持，演示视频如下：
-<video src="/public/video/GoogleHijack.mp4" width="750px" height="500px" controls="controls"></video>
+
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDQ0NzQwNA==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>
+
 **<font color=Red face="黑体">该方法同样对国内比较大型的互联网企业等网站进行劫持，经测试对通信官方网站某通、某信、某动都能劫持。</font>**
 
 
@@ -46,5 +54,5 @@ https://policies.google.com/privacy
 https://play.google.com/intl/ALL_ru/about/card-terms/ 
 https://play.google.com/intl/ru_ru/about/redeem-terms/
 ```
-<font color=Red face="黑体">其他自己去测</font>
+> <font face="黑体">其他自己去测</font>
 

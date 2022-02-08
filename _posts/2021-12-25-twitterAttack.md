@@ -8,7 +8,14 @@ layout: post
 
 
 ## 最新推特重定向攻击演示
-<video src="/public/video/twitterAttack.mp4" width="780px" height="500px" controls="controls"></video>
+
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDQ1NTQxNg==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>
 
 
 > **攻击接口：**

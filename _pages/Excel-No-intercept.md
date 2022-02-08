@@ -7,5 +7,11 @@ layout: post
 ---
 
 ## 最新EXCEL免杀上线演示视频
-<video src="/public/video/NoIntercept.mp4" width="780px" height="500px" controls="controls"></video>
 
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDQ0Nzk4MA==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>

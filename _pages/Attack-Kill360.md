@@ -7,4 +7,11 @@ layout: post
 ---
 
 ## 最新免杀Kill360演示视频
-<video src="/public/video/kill360.mp4" width="780px" height="500px" controls="controls"></video>
+
+<iframe 
+    width=770
+    height=435
+    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
+    frameborder=0
+    allowfullscreen>
+</iframe>

@@ -112,21 +112,3 @@ layout: home
     frameborder=0
     allowfullscreen>
 </iframe>
-
-
-<iframe 
-    width=770
-    height=436
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=0
-    allowfullscreen>
-</iframe>
-
-
-<iframe 
-    width=770
-    height=437
-    src="https://player.youku.com/embed/XNTg0MDQ0NDYwOA==" 
-    frameborder=0
-    allowfullscreen>
-</iframe>
