@@ -1,11 +1,11 @@
-<img src="/public/picture/anonimuns.gif" style="zoom:20%">
+<img src="/public/picture/anonimuns.gif" width="100px">
 
 **<font color=DeepPink size=33 face="黑体">Name：H4K6</font>**
 
 ![smiley](/public/picture/anonimuns.gif)
 
 
-<img src="/public/picture/anonimuns.gif" style="zoom:30%">
+<img src="/public/picture/anonimuns.gif" width="50px">
  
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div><br>
 
