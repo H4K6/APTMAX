@@ -4,8 +4,8 @@
 
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div><br>
 
-*******
-<img src="/public/picture/anonimuns.gif" width="300px">
+- - - - - -
+<img src="/public/picture/anonimuns.gif" width="200px">
 
 ```
 热爱前沿技术探索，黑灰产行业打击研究。 
@@ -18,6 +18,7 @@
 &emsp;&emsp;如果你正处在一个恶劣的学习环境中迷茫，我想这篇文章或许会对你有些帮助。
 
 - - - - - -
+
 
 我们都处在一个人与人链接的社会里，一个来自全球各地文化水平有高有低的互联世界里。
 
