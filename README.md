@@ -1,5 +1,3 @@
-# **介绍**
-
 <img src="/public/picture/anonimuns.gif" style="zoom:20%">
 
 **<font color=DeepPink size=33 face="黑体">Name：H4K6</font>**
