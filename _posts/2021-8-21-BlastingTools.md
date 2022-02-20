@@ -37,7 +37,6 @@ url获取 右键验证码图片-复制图片地址
 3. 设置好线程
 4. 启用代理（建议调用随机ip代理）
 
-建议：搭建云函数代理ip池 或使用 付费匿名代理
 
 ![](/publicDocsPics/Blasting-tools3.png)
 
@@ -55,7 +54,7 @@ url获取 右键验证码图片-复制图片地址
 
 抓登入包
 
-返回特征（固定不变的）：
+返回特征：
 
 {&quot;success&quot;:false,&quot; message&quot;:&quot;CHECK\_CODE&quot;}
 
