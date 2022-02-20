@@ -1,12 +1,12 @@
 ---
-title: 验证码爆破工具
+title: 二开验证码爆破工具
 author: APT - 0x44LL
 date: 2021-01-17
 category: 0x44LL
 layout: post
 ---
 
-# 验证码爆破工具 - Blasting Tools
+# 二次开发验证码爆破工具 - Blasting Tools
 
 ## 该工具在原作者的基础上进行了优化了逻辑并加强了OCR识别能力，验证码识别能力大幅度提升，识别准确率极高。
 
