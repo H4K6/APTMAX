@@ -92,7 +92,7 @@ layout: home
 而这一份资料，我愿意与你分享，好好学习，读书人！
 
 
-![smiley](/public/picture/anonimuns.gif)
+![hacker](/public/picture/anonimuns.gif)
 
 
 ```
