@@ -2,7 +2,7 @@
 title: EXCEL远程执行
 author: APT - 0x44LL
 date: 2021-01-17
-category: Jekyll
+category: 0x44LL
 layout: post
 ---
 
