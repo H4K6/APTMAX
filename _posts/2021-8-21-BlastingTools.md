@@ -6,7 +6,7 @@ category: 0x44LL
 layout: post
 ---
 
-# 免费的验证码爆破工具
+# 验证码爆破工具 - Blasting Tools
 
 ## 该工具可以通过后台密码爆破方式进行验证码识别，识别率高。
 
@@ -16,7 +16,7 @@ url获取 右键验证码图片-复制图片地址
 
 放入验证码url地址点击 **识别**
 
-![](/publicDocsPics/Blasting-tools1.png)
+![BlastingTools](/public/DocsPics/Blasting-tools1.png)
 
 # 请求栏
 
@@ -28,7 +28,7 @@ url获取 右键验证码图片-复制图片地址
 6. 导入【标记的啥导入啥】
 7. 注意:验证码同步不要关闭,勾选了不要去管他！
 
-![](/publicDocsPics/Blasting-tools2.png)
+![](/public/DocsPics/Blasting-tools2.png)
 
 # 爆破栏
 
@@ -38,7 +38,7 @@ url获取 右键验证码图片-复制图片地址
 4. 启用代理（建议调用随机ip代理）
 
 
-![](/publicDocsPics/Blasting-tools3.png)
+![](/public/DocsPics/Blasting-tools3.png)
 
 点击Start 就会开始爆破。验证码也会自动识别。
 
@@ -48,9 +48,9 @@ url获取 右键验证码图片-复制图片地址
 
 填写对应参数
 
-![](/publicDocsPics/Blasting-tools4.png)
+![](/public/DocsPics/Blasting-tools4.png)
 
-![](/publicDocsPics/Blasting-tools5.png)
+![](/public/DocsPics/Blasting-tools5.png)
 
 抓登入包
 
@@ -58,9 +58,9 @@ url获取 右键验证码图片-复制图片地址
 
 {&quot;success&quot;:false,&quot; message&quot;:&quot;CHECK\_CODE&quot;}
 
-![](/publicDocsPics/Blasting-tools6.png)
+![](/public/DocsPics/Blasting-tools6.png)
 
-![](/publicDocsPics/Blasting-tools7.png)
+![](/public/DocsPics/Blasting-tools7.png)
 
 开始爆破
 
@@ -68,26 +68,26 @@ url获取 右键验证码图片-复制图片地址
 
 御剑进行扫描
 
-![](/publicDocsPics/Blasting-tools8.png)
+![](/public/DocsPics/Blasting-tools8.png)
 
 发现敏感路径及后台
 
 文章中得知发布者用户名有 **admin**
 
-![](/publicDocsPics/Blasting-tools9.png)
+![](/public/DocsPics/Blasting-tools9.png)
 
-![](/publicDocsPics/Blasting-tools10.png)
+![](/public/DocsPics/Blasting-tools10.png)
 
 进行抓登入包及密码导入工具中
 
-![](/publicDocsPics/Blasting-tools11.png)
+![](/public/DocsPics/Blasting-tools11.png)
 
 PS：点击序号，状态码，相应长度可进行升降排序，单机某栏，可查看请求包与相应包内容!
 
-![](/publicDocsPics/Blasting-tools12.png)
+![](/public/DocsPics/Blasting-tools12.png)
 
 爆破到密码
 
-![](/publicDocsPics/Blasting-tools13.png)
+![](/public/DocsPics/Blasting-tools13.png)
 
 爆破密码登入成功！
